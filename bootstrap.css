@@ -1,0 +1,427 @@
+body{
+    font-family: rubik;
+    font-size: normal;
+}
+header{
+    background: linear-gradient(0deg,rgba(18,74,205,0.3),rgba(49,21,234,0.3)),url(image/piggybank-0UDem7QBxZU-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 30px;
+    margin: 0;
+    text-align: left;
+    color: white;
+    height: 450px; 
+}
+.slide0{
+    background: linear-gradient(0deg,rgba(18,74,205,0.3),rgba(49,21,234,0.3)),url(image/Online\ Digital\ \(5\).png);
+    background-size: cover;
+    background-position: center;
+    padding: 30px;
+    margin: 0;
+    text-align: left;
+    color: white;
+    height: 450px; 
+}
+.slide1{
+    background: linear-gradient(0deg,rgba(18,74,205,0.3),rgba(49,21,234,0.3)),url(image/Online\ Digital\ \(6\).png);
+    background-size: cover;
+    background-position: center;
+    padding: 30px;
+    margin: 0;
+    text-align: left;
+    color: white;
+    height: 450px; 
+}
+.slide2{
+    background: linear-gradient(0deg,rgba(18,74,205,0.3),rgba(49,21,234,0.3)),url(image/Online\ Digital\ \(5\).png);
+    background-size: cover;
+    background-position: center;
+    padding: 30px;
+    margin: 0;
+    text-align: left;
+    color: white;
+    height: 450px; 
+}
+.slide3{
+    background: linear-gradient(0deg,rgba(18,74,205,0.3),rgba(49,21,234,0.3)),url(image/Blue\ Corporate\ Business\ Marketing\ Strategy\ Banner\ \(1\).png);
+    background-size: cover;
+    background-position: center;
+    padding: 30px;
+    margin: 0;
+    text-align: left;
+    color: white;
+    height: 450px; 
+}
+.slide-description{
+    color: aliceblue;
+    font-size: 25px;
+    font-family: rubik;
+}
+.slide-title5{
+    margin-top: 100px;
+    font-family: rubik;
+    font-size: 55px;
+}
+.slide-title3{
+    margin-top: 200px;
+    font-family: rubik;
+    font-size: 55px;
+    text-align: center;
+}
+.slide-title7{
+    margin-top: 200px;
+    font-family: rubik;
+    font-size: 55px;
+    margin-left: 500px;
+}
+.slide-title{
+    width: 1260px;
+    height: 550px;
+}
+.slide-title2{
+    margin-top: 200px;
+    font-family: rubik;
+    font-size: 75px;
+    margin-left: 500px;
+
+}
+.slide-title4{
+    width: 1260px;
+    height: 550px;
+    padding-bottom: 40px;
+    padding-top: 35px;
+}
+.d-flex{
+display: flex !important;
+padding-left: 20%;
+}
+.logo-img{
+    border-radius: 700px;
+}
+body{
+    background-color: azure;
+}
+button{
+    border-radius: 20px;
+    padding: 12px;
+    background-color: burlywood;
+    color: antiquewhite;
+}
+.text{
+    text-align: center;
+    font-family: rubik;
+    font-style: normal;
+    font-size: 1rem;
+    color: rgb(98,119,146);
+    line-height: 1.625em;
+}
+.navbar{
+    position: sticky;
+    top: 0;
+    padding-bottom: 1px;
+    z-index: 1;
+}
+a{
+    font-size: 20px;
+}
+.navbar-nav{
+    padding-left: 10%;
+}
+.navbar-nav{
+    padding-left: 30%;
+    justify-content: space-evenly;
+    font-family: rubik;
+    font-style: normal;
+    font-size: 1rem;
+   
+}
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .show>.nav-link{
+    color: white;
+    text-decoration: none;
+    justify-content: space-evenly;
+    padding-right: 60px;
+    
+}
+.card-subtitle{
+    color: rgb(98,119,146);
+    padding: 10px;
+    line-height: 1.625em;
+}
+.card-title{
+   color:  rgba(10, 10, 91, 0.932);
+   line-height: 1.625em;
+}
+.card{
+    background-color: azure;
+    margin: 20px;
+}
+.mission{
+    color:  rgba(10, 10, 91, 0.932);
+    padding: 20px;
+    display: flex;
+    margin-left: 100px;
+    padding-bottom: 0px;
+    font-size: 1rem;
+    font-family: rubik;
+    font-style: normal;
+    line-height: 1.625em;
+}
+.vision{
+    padding: 50px;
+    font-size: 1rem;
+    text-align: center;
+    font-family: rubik;
+    font-style: normal;
+    margin-left: 100px;
+    color:  rgba(10, 10, 91, 0.932);
+    line-height: 1.625em;
+}
+.btn1{
+    background-color:  rgba(10, 10, 91, 0.932);
+    text-align: center;
+    color:  rgb(231, 235, 241);
+    margin: 20px;
+    margin-left: 40%;
+    width: 200px;
+    border-radius : 20px;
+    border: none;
+    height: 50px;
+    font-family: rubik;
+    font-style: normal;
+    font-size: 1rem;
+}
+.sub{
+    font-style: italic;
+}
+.container88{
+    color: rgb(98,119,146);
+    margin-top: 20px;
+}
+.banner{
+    width: 100%;
+    height: 700px;
+}
+h5{
+    color: rgb(98,119,146);
+    padding-left: 20px;
+    padding-right: 15px;
+}
+.container3{
+        display: flex;
+        margin-top: 50px;
+}
+.img3{
+    width: 700px;
+    height:350px; 
+    margin-right: 30px;
+    margin-bottom: 30px;
+    border-radius: 15px;
+}
+.text2{
+    padding-left: 40px;
+    padding-right: 200px;
+    padding-top: 30px;
+    font-family: rubik;
+    font-style: normal;
+    font-size: 20px;
+    color: rgb(98,119,146);
+}
+.text7{
+    width: 100%;
+    height: 300px;
+    padding-left: 40px;
+    padding-right: 200px;
+    padding-top: 50px;
+    font-family: rubik;
+    font-style: normal;
+    font-size: 20px;
+    color: rgb(98,119,146);
+}
+.slide-title2{
+    width: 100%;
+    height: 500px;
+}
+h3{
+    color: rgba(10, 10, 91, 0.932);
+    margin-left: 15px;
+    margin-top: 10px;
+}
+i{
+    margin-left: 15px;
+    margin-top: 30px;
+    color: rgb(98,119,146);
+    font-size: 20px;
+}
+.text3{
+    color: rgb(98,119,146);
+    padding: 20px;
+    padding-bottom: 15px; 
+}
+.img1{
+    color: rgb(98,119,146) ;
+}
+.footer{
+    height: 800px;
+    background-color:  rgba(10, 10, 91, 0.932);
+    padding-top: 30px;
+    font-family: rubik;
+    font-style: normal;
+    font-size: 1rem;
+    margin-top: 100px;
+}
+.dp{
+    color: rgb(226, 226, 226);
+    text-align: center;
+    padding-top: 80px;
+    font-size: 60px;
+}
+.dp2{
+    color: rgb(226, 226, 226);
+    text-align: center;
+    padding-top: 30px;
+    font-size: 25px;
+}
+.btn2{
+    background-color:   rgb(231, 235, 241);
+    text-align: center;
+    color:  rgba(10, 10, 91, 0.932);
+    margin-left: 40%;
+    width: 200px;
+    border-radius : 20px;
+    border: none;
+    height: 50px;
+    font-family: rubik;
+    font-style: normal;
+    font-size: x-large;
+}
+.btn2:hover{
+    color: black;
+    background: rgb(220, 220, 220);
+}
+.addr{
+    margin-top: 100px;
+    padding-top: 50px;
+    padding-left: 20px;
+    color:  rgb(231, 235, 241);
+    font-size: 10px;
+}
+.addr2{
+    padding-top: 20px;
+    padding-left: 20px;
+    color:  rgb(231, 235, 241);
+    font-size: 10px;
+}
+.dad{
+    font-family: rubik;
+    font-size: 20px;
+    padding-top: 20px;
+}
+.opeyemi{
+    color:  rgba(10, 10, 91, 0.932);
+}
+.pp{
+    color:  rgb(98,119,146);
+    padding: 20px;
+    padding-bottom: 15px; 
+}
+.opeyemi1{
+    padding-left: 5px;
+    color: rgba(10, 10, 91, 0.932) ;
+}
+.img4{
+    width: 500px;
+    height:400px; 
+    margin-left: 20px;
+    border-radius: 20px;
+}
+.text4{
+    padding-left: 80px;
+    padding-right: 100px;
+    padding-top: 100px;
+    font-family: rubik;
+    font-style: normal;
+    font-size: 20px;
+    color: rgb(98,119,146);
+}
+.img6{
+    margin-left: 25px;
+    margin-bottom: 15px;
+    width: 50px;
+    height: 50px;
+}
+.iya{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
+p{
+    color:  rgb(98,119,146);
+}
+@media (max-width: 700px) {
+    
+}
+.form{
+    background-color:  rgb(169, 193, 217);
+    margin-left: 220px;
+    margin-right: 220px;
+    padding-left: 40px;
+    border-radius: 15px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+input,select,textarea{
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    box-sizing: border-box;
+    padding-right: 90px;
+}
+.submit{
+    background-color:  rgb(226, 229, 234);
+    margin-left: 600px;
+    margin-bottom: 30px;
+    margin-right: 50px;
+    width: 20%;
+    padding: 10px;
+}
+.submit:hover{
+    background-color: rgb(105, 133, 169) ;
+}
+.container5{
+    margin-left: 35px;
+    margin-right: 3px;
+}
+.text4{
+    margin-left: 60px;
+}
+.services{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+.cybersecurity{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 100px;
+    background-color: rgb(226, 229, 234);
+}
+.img8{
+width: 100%;
+margin-top: 40px;
+padding-left: 40px;
+padding-top: 40px;
+}
+.col.c{
+    padding: 50px 50px 0px 50px;
+    margin-bottom: 25px;  
+}
+.img81{
+    width: 100%;
+margin-top: 40px;
+padding-right: 40px;
+padding-top: 25px;
+}
+.figma{
+    padding-left: 1000px;
+}
