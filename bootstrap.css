@@ -62,12 +62,6 @@ header{
     font-family: rubik;
     font-size: 55px;
 }
-.slide-title3{
-    margin-top: 200px;
-    font-family: rubik;
-    font-size: 55px;
-    text-align: center;
-}
 .slide-title7{
     margin-top: 200px;
     font-family: rubik;
@@ -182,11 +176,11 @@ a{
     text-align: center;
     color:  rgb(231, 235, 241);
     margin: 20px;
-    margin-left: 40%;
-    width: 200px;
+    margin-left: 20px;
+    width: 100px;
     border-radius : 20px;
     border: none;
-    height: 50px;
+    height: 70px;
     font-family: rubik;
     font-style: normal;
     font-size: 1rem;
@@ -262,7 +256,6 @@ i{
     color: rgb(98,119,146) ;
 }
 .footer{
-    height: 800px;
     background-color:  rgba(10, 10, 91, 0.932);
     padding-top: 30px;
     font-family: rubik;
@@ -273,13 +266,13 @@ i{
 .dp{
     color: rgb(226, 226, 226);
     text-align: center;
-    padding-top: 80px;
+    padding-top: 15px;
     font-size: 60px;
 }
 .dp2{
     color: rgb(226, 226, 226);
     text-align: center;
-    padding-top: 30px;
+    padding-top: 15px;
     font-size: 25px;
 }
 .btn2{
@@ -424,4 +417,114 @@ padding-top: 25px;
 }
 .figma{
     padding-left: 1000px;
+}
+@media (max-width: 700px) {
+    header,
+    .slide0,
+    .slide1,
+    .slide2,
+    .slide3 {
+        height: 300px;
+        padding: 15px;
+        background-position: center;
+    }
+
+    .slide-title5,
+    .slide-title7,
+    .slide-title2 {
+        font-size: 30px;
+        margin-top: 50px;
+        margin-left: 0;
+        text-align: center;
+    }
+
+    .slide-title,
+    .slide-title4 {
+        width: 100%;
+        height: auto;
+    }
+
+    .d-flex {
+        flex-direction: column;
+        padding-left: 0;
+        align-items: center;
+    }
+
+    .logo-img {
+        width: 100px;
+    }
+
+    .text,
+    .text2,
+    .text7,
+    .text3,
+    .text4 {
+        font-size: 16px;
+        padding: 10px;
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .navbar-nav {
+        flex-direction: column;
+        padding-left: 0;
+        text-align: center;
+    }
+
+    .img3,
+    .img4 {
+        width: 100%;
+        height: auto;
+        margin: 10px 0;
+    }
+
+    .form {
+        margin: 20px;
+        padding: 20px;
+    }
+
+    .submit {
+        width: 100%;
+        margin: 20px 0;
+        margin-left: 0;
+    }
+
+    .btn2 {
+        width: 100%;
+        margin-left: 0;
+        font-size: 1rem;
+    }
+
+    .container3 {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .iya {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .vision,
+    .mission {
+        margin: 10px;
+        text-align: center;
+    }
+
+    .banner {
+        height: auto;
+    }
+
+    .figma {
+        padding-left: 0;
+    }
+
+    .img6 {
+        margin: 10px auto;
+    }
+
+    h3, h5, p, .dp, .dp2 {
+        text-align: center;
+        margin: 10px auto;
+    }
 }
